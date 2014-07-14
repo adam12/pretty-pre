@@ -2,8 +2,8 @@
   "name": "pretty-pre",
   "version": "0.0.1",
   "author": "Adam Daniels",
-  "description": "",
-  "keywords": [],
+  "description": "Preserve indentation in pre tags",
+  "keywords": ["highlight", "syntax", "pre", "indent"],
   "license": "MIT",
   "repository": "adam12/pretty-pre",
   "scripts": ["index.js"]
